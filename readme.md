@@ -1,4 +1,4 @@
-Repo for learning git :)
-Dont mind this repo :)
-check out my other ones
+<p>Repo for learning git :)
+<p>Dont mind this repo :)
+<p>check out my other ones
 
